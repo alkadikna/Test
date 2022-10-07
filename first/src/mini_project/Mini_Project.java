@@ -80,7 +80,7 @@ public class Mini_Project {
 					System.out.println("Invalid Number");
 				}
 			} else {
-				System.out.println("Invalid Number");
+				System.out.println("Invalid Number :)");
 			}
 
 		}
